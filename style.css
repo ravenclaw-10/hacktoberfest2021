@@ -1,0 +1,120 @@
+/* *, html {
+    margin:0;
+    padding:0; 
+} */
+body {
+    margin:0px;
+    text-align:center;
+    background-color: #f8ede3;
+}
+.upper-section {
+    margin:0px;
+    background-color:#bdd2b6;
+    height:40em;
+}
+.upper-name {
+    font-size:xx-large;
+    display:inline-block;
+    margin: 10px auto;
+    position:relative;
+    top:15%;
+    left:35%;
+    font-family: 'Clicker Script', cursive, Arial, Helvetica, sans-serif;
+}
+.profile {
+    margin: 20px auto;
+}
+.profile-picture {
+    width:15%;
+}
+.skill-img1 {
+    width:20% ;
+    float:left;
+    margin-right:50px;
+}
+.skill-img2 {
+    width:20% ;
+    float:right;
+    margin-left:50px;
+}
+.main-img {
+    width:40%;
+    margin:80px auto;
+    position:relative;
+    left:5%;
+    top:50%;
+}
+.upper-cloud {
+    width:15%;
+    position:relative;
+    left:17%;
+}
+.lower-cloud {
+    width:15%;
+    position:relative;
+    right:70%;
+    top:30%;
+}
+.middle-container {
+    text-align:center;
+}
+p {
+    font-weight: normal;
+    margin-block-end: 0em;
+}
+h1 {
+    color:#464f41;
+    font-weight: bolder;
+}
+h3 {
+    font-weight:bolder;
+}
+
+.skill-row {
+    margin:150px auto;
+    text-align:left;
+    line-height: 200%;
+}
+.skills {
+    margin:10px auto;
+    width:50%;
+}
+.bottom-container {
+    padding: 20px;
+    margin: 20px 0px 0px 0px;
+    background-color:#bdd2b6 ;
+}
+.footer-link {
+    margin:20px;
+}
+.btn {
+    margin:60px;
+    background: #bdd2b6;
+    background-image: -webkit-linear-gradient(top, #bdd2b6, #464f41);
+    background-image: -moz-linear-gradient(top, #bdd2b6, #464f41);
+    background-image: -ms-linear-gradient(top, #bdd2b6, #464f41);
+    background-image: -o-linear-gradient(top, #bdd2b6, #464f41);
+    background-image: linear-gradient(to bottom, #bdd2b6, #464f41);
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    text-shadow: 1px 1px 4px #666666;
+    font-family: Arial;
+    color: #ffff;
+    font-size: 25px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #9cd6a8;
+    background-image: -webkit-linear-gradient(top, #9cd6a8, #2bcdd9);
+    background-image: -moz-linear-gradient(top, #9cd6a8, #2bcdd9);
+    background-image: -ms-linear-gradient(top, #9cd6a8, #2bcdd9);
+    background-image: -o-linear-gradient(top, #9cd6a8, #2bcdd9);
+    background-image: linear-gradient(to bottom, #9cd6a8, #2bcdd9);
+    text-decoration: none;
+  }
+  .contact-me {
+      line-height: 200%;
+  }
