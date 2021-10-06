@@ -1,0 +1,25 @@
+body {
+    background-color:#e8e8e8;
+    
+}
+h1 {
+    color:#f05454;
+}
+h2 {
+    color:#30475e;
+}
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color:grey;
+    width:5%
+}
+ul {
+    color:#000000;
+}
+table {
+    color:#000000;
+}
+form {
+    color:#000000;
+}
