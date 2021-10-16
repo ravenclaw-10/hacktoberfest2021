@@ -1,0 +1,72 @@
+body {
+    background:url(./Resources/bg-img.jpg);
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+.nav-item {
+    padding:0px 30px;
+    text-align:right;
+}
+
+.navbar-brand {
+    padding:0px 25px;
+}
+
+.navbar {
+    font-size:15px;
+    font-weight:600;
+}
+
+
+#navbarSupportedContent {
+    font-size:larger;
+    text-align:right;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+button {
+    display: flex;
+    width: 100px;
+}
+.searchBar {
+    float:left;
+    padding: 0px 4px;
+}
+
+.searchButton {
+    float:right;
+    padding: 0px 4px;
+}
+
+
+.pay {
+    border-radius:35px;
+    display:block;
+    width:15%;
+    margin:4% auto;
+    padding:10px 40px;
+    font-size:25px;
+    font-weight:bold;
+    position:relative;
+    top:140px;
+}
+
+h2{
+    display:block;
+    margin:3% 25% 10% 25%;
+}
+.btn-dark {
+    display:block;
+    margin:0px auto;
+    width:80px;
+}
+
+.submit-button {
+    display:block; 
+    width:50%; 
+    margin:20px auto; 
+}
